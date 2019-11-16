@@ -43,3 +43,7 @@ The hypothesis that an integer n is prime iff it satisfies the condition that 2^
 　　实际上没有必要测试所有的小于p的自然数，只要测试所有的小于p的质数就可以了。
 
 　　这个算法的缺点是它非常慢，运算率高。
+  
+  
+  # Reference
+  * 一个费马小定理的“无字”证明 https://zhuanlan.zhihu.com/p/28450259

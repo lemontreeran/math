@@ -47,3 +47,6 @@ The hypothesis that an integer n is prime iff it satisfies the condition that 2^
   
   # Reference
   * 一个费马小定理的“无字”证明 https://zhuanlan.zhihu.com/p/28450259
+  * 模运算规则：
+    * (a^b) % p = ((a % p)^b) % p
+    * (a * b) % p = (a % p * b % p) % p

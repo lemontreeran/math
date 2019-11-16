@@ -1,3 +1,13 @@
+# History
+　　皮埃尔·德·费马于1636年发现了这个定理，在一封1640年10月18日的信中他第一次使用了上面的书写方式。在他的信中费马还提出a是一个质数的要求。这个要求实际上不存在。
+
+The hypothesis that an integer n is prime iff it satisfies the condition that 2^n-2 is divisible by n. Dickson (2005, p. 91) stated that Leibniz believe to have proved that this congruence implies that n is prime. In actuality, this condition is necessary but not sufficient for n to be prime since, for example, 2^(341)-2 is divisible by 341, but 341=11·31 is composite.
+    与费马无关的有一个中国猜想。这个猜想是中国数学家提出来的。其内容为如果，而且只有当2p = 2(modp)成立时p才是一个质数。
+
+　　假如p是一个质数的话，则2p = 2(modp)成立（这是费马小定理的一个特殊情况）是对的。但反过来，假如2p = 2(modp)成立那么p是一个质数是不成立的（比如341符合上述条件但不是一个质数）。因此整个来说这个猜想是错误的。
+
+　　一般认为中国数学家在费马前2000年的时候就已经认识中国猜测了。但也有人认为实际上中国猜测是1872年提出的，认为它早就为人所知是出于一个误解。
+  
 # Fermat's Little Theorem
 ###### If p is a prime number and a is a natural number, then
  * a^p=a (mod p). 	

@@ -1,5 +1,5 @@
 # Fermat's Little Theorem
-If p is a prime number and a is a natural number, then
+* If p is a prime number and a is a natural number, then
 (1) a^p=a (mod p). 	
 Furthermore, if p does not divide a, then there exists some smallest exponent d such that
 (2) a^d-1=0 (mod p) 	

@@ -9,6 +9,7 @@ The hypothesis that an integer n is prime iff it satisfies the condition that 2^
 　　一般认为中国数学家在费马前2000年的时候就已经认识中国猜测了。但也有人认为实际上中国猜测是1872年提出的，认为它早就为人所知是出于一个误解。
   
 # Fermat's Little Theorem
+如果n是一个素数，a是小于n的任意正整数，那么a的n次方与a模n同余
 ###### If p is a prime number and a is a natural number, then
  * a^p=a (mod p). 	
 ###### Furthermore, if p does not divide a, then there exists some smallest exponent d such that

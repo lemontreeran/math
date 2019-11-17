@@ -48,6 +48,7 @@ The hypothesis that an integer n is prime iff it satisfies the condition that 2^
   
   # Reference
   * 一个费马小定理的“无字”证明 https://zhuanlan.zhihu.com/p/28450259
+  * 二次探测定理:如果p是一个素数,且0<x<p,则方程x^2%p=1的解为:x=1或x=p-1
   * 模运算规则：
     * (a^b) % p = ((a % p)^b) % p
     * (a * b) % p = (a % p * b % p) % p
